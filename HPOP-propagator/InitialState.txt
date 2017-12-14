@@ -1,0 +1,6 @@
+2002/04/24-21:55:28.000     +7144843.808 +0217687.110 -0506463.296 +0562.650611 -1616.516697 +7358.157263
+satellite's effective area for solar radiation: 110.5
+satellite's effective area for drag: 62.5
+satellite's mass: 4860.0
+Cr: 1.0
+Cd: 2.0
