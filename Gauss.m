@@ -72,7 +72,7 @@ v2=A\B;
 
 
 %ЕќДњжежЙЬѕМў
-if(norm(r1-pre_r1)<1e-20&&norm(r3-pre_r3)<1e-20) 
+if(norm(r1-pre_r1)<1e-10&&norm(r3-pre_r3)<1e-10) 
     R21=r1;
     R22=r2;
     R23=r3;
